@@ -1,0 +1,15 @@
+.blog-post {
+  padding: 2rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.blog-post h1 {
+  color: var(--primary-color);
+  margin-bottom: 1rem;
+}
+
+.content {
+  line-height: 1.6;
+  color: var(--text-color);
+}
